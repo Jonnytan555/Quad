@@ -2,9 +2,7 @@
 
 The following function prints a valid rectangle with a given width of x and height of y.
 
-The function must draw the rectangles as in the examples.
-
-If x and y are positive numbers, the program prints the rectangles as seen in the examples, otherwise, the function prints nothing.
+If x and y are positive numbers, the program prints the rectangles, otherwise, the function prints nothing.
 
 
 
